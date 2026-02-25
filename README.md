@@ -17,4 +17,4 @@ This project predicts sales using historical data and regression models.
 - Jupyter Notebook
 
 ## Author
-Arun 
+Arun  
